@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: inherit;
+    color: inherit;
+    border: 4px solid #39445a93;
+}
+
+.app {
+    /* min-height: 96vh; */
+    min-height: 98.5vh;
+    border: 8px solid #39445a93;
+
+    margin: 5px;
+    padding: 5px;
+}
+
+*::-webkit-scrollbar {
+    width: 8px;
+    background-color: grey;
+}
